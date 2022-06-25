@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm PRANAV SAJANAN</h1>
-<h3 align="center">I am passionate about everything that revolves around art and technology</h3>
+<h3 align="center"> Passionate about everything that revolves around art and technology</h3>
 
 - 🔭 I’m currently working on **REACT MASTER PROJECT**
 
